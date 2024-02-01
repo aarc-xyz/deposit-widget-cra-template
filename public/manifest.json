@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Aarc CRA Template",
+  "name": "CRA Template for Deposit Widget",
   "icons": [
     {
       "src": "favicon.ico",
